@@ -1,6 +1,7 @@
 # 💠 internal-economy
 
 **redefining productivity, value, and finance through the physics of aliveness**
+
 **strategic note:** treating energy circulation (attention, clarity, creative capacity) as an operational asset increases effective velocity and reduces rework/attrition. this framework uses ethical, pattern-level metrics to replace urgency culture with sustainable output.
 
 
