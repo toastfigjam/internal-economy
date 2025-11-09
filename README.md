@@ -141,6 +141,12 @@ the collaboration is part of the research:
 here, AI is used as an *instrument of coherence* — helping language move, not flatten.
 
 ---
+### Part of the *Coherence Trilogy*  
+→ [coherence-engine](https://github.com/yourusername/coherence-engine)  
+→ [internal-economy](https://github.com/yourusername/internal-economy)  
+→ [attention-ecology](coming soon)
+
+---
 
 © 2025 Hasna · toast & fig jam  
 Shared under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
